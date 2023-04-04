@@ -12,4 +12,4 @@ if __name__ == '__main__':
     style_img_path = 'img/style2.jpg'
     content_img = Image.open(content_img_path)
     style_img = Image.open(style_img_path)
-    StyleTransfer(content_img, style_img, save_path='./', file_name='./output_img/mine_output2.jpg',epochs_num=1000)
+    StyleTransfer(content_img, style_img, save_path='./output/', file_name='output.jpg',epochs_num=1000)
