@@ -5,13 +5,15 @@
 
 ### 项目结构说明
 
-- [ ] img：存放风格参照、风格化图片
-- [ ] output：存放输出图片
-- [ ] main.py：项目的入口文件
-- [ ] README.md：项目的介绍文件
-- [ ] requirements.txt：记载了项目所需的库以及版本
-- [ ] rgba to rgb.py：将四维向量的图片转换为三维向量
-- [ ] StyleTransfer.py：风格迁移算法
+```txt
+├── README.md-项目的介绍文件
+├── StyleTransfer.py-风格迁移算法
+├── img-存放风格参照、风格化图片
+├── output-存放输出图片
+├── main.py-项目的入口文件
+├── requirements.txt-记载了项目所需的库以及版本
+└── rgba to rgb.py-将四维向量的图片转换为三维向量
+```
 
 ### 如何运行该项目？
 
