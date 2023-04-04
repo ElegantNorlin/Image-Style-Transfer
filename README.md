@@ -7,6 +7,7 @@
 ## 项目结构说明
 
 ```txt
+├── .DS_Store-mac os系统文件，忽略或者删除即可
 ├── README.md-项目的介绍文件
 ├── StyleTransfer.py-风格迁移算法
 ├── img-存放风格参照、风格化图片
