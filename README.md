@@ -4,8 +4,6 @@ Image-Style-Transfer
 
 基于Pytorch框架的图像风格迁移项目
 
-该项目基于https://github.com/YaoShunyu19/style-transfer-pytorch
-
 ## 项目结构说明
 
 ```txt
