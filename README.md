@@ -27,6 +27,12 @@ git clone git@github.com:ElegantNorlin/Image-Style-Transfer.git
 
 ### 2.安装所需项目依赖
 
+打开终端
+
+```shell
+cd 项目根目录
+```
+
 ```shell
 pip install -r requirements.txt
 ```
