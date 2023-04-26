@@ -51,5 +51,5 @@ python main.py
 
 <div id="container" style="width:500px">
     <img src="https://github.com/ElegantNorlin/Image-Style-Transfer/blob/main/img/content.jpg?raw=true" alt="cat&dog"></img>
-	<img src="https://github.com/ElegantNorlin/Image-Style-Transfer/blob/main/output/output.jpg?raw=true" alt="cat&dog"></img>
+<img src="https://github.com/ElegantNorlin/Image-Style-Transfer/blob/main/output/output.jpg?raw=true" alt="cat&dog" width="600"></img>
 </div>
